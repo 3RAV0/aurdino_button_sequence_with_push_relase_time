@@ -85,7 +85,6 @@ void loop() {
         }
         if(arr[k][1] == 0){
           digitalWrite(l1, LOW);
-          //delay(arr[k][2]);
         }
       }  
       else if(arr[k][0] == 2){
